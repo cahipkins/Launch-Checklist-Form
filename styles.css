@@ -10,6 +10,10 @@ div {
     visibility: hidden;   
 }
 
+#faultyItems2 {
+    visibility: visible;
+}
+
 #launchForm {
     background-color: #ECF0F1;
     text-align: center;
